@@ -783,11 +783,17 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #portfolios .mix {
   padding: 10px;
+	margin: auto;
 }
 
+
 #portfolios .portfolio-item .shot-item {
-  margin: 0px;
+  margin-left: 70px;
+  margin-right: 70px;
 }
+
+
+
 
 #portfolio .mix {
   display: none;
