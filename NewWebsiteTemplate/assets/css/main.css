@@ -125,12 +125,12 @@ ul li, ol li {
   display: inline-block;
 }
 
-    .btn:focus,
-    .btn:active {
-        box-shadow: none;
-        outline: none;
-        color: #6bbba9;
-    }
+.btn:focus,
+.btn:active {
+  box-shadow: none;
+  outline: none;
+  color: #fff;
+}
 
 .btn-common {
     background-color: #0d7d64;
@@ -157,9 +157,9 @@ ul li, ol li {
 }
 
 .btn-border {
-    color: #fff;
-    background-color: 6bbba9;
-    border: 1px solid #fff;
+  color: #fff;
+  background-color: transparent;
+  border: 1px solid #fff;
 }
 
 .btn-border:hover {
