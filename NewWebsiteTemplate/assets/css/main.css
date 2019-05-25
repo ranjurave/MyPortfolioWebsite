@@ -133,14 +133,14 @@ ul li, ol li {
 }
 
 .btn-common {
-  background-color: #3f5049;
+  background-color: #00b4d9;
   position: relative;
   z-index: 1;
 }
 
 .btn-common:hover {
   color: #fff;
-  background-color: #357265;
+  background-color: #21cff3;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
@@ -184,7 +184,7 @@ button:focus {
 }
 
 .icon-close, .icon-check {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .social-icon li {
@@ -248,7 +248,7 @@ a.back-to-top i {
   height: 40px;
   line-height: 40px;
   color: #fff;
-  background: #3f5049;
+  background: #00b4d9;
   border-radius: 2px;
   text-align: center;
   transition: all 0.2s ease-in-out;
@@ -360,7 +360,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .counter-section .counter .icon i {
   font-size: 48px;
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .counter-section .counter p {
@@ -442,7 +442,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   display: block;
   position: absolute;
   margin-top: 18px;
-  border-color: #3f5049 !important;
+  border-color: #00b4d9 !important;
 }
 
 .timeline li:first-child i {
@@ -452,7 +452,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   line-height: 50px;
   border-radius: 30px;
   margin: -12px -55px;
-  background: #3f5049;
+  background: #00b4d9;
   color: #fff;
   width: 50px;
   height: 50px;
@@ -495,11 +495,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
   cursor: pointer;
-  color: #3f5049 !important;
+  color: #00b4d9 !important;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #3f5049 !important;
+  color: #00b4d9 !important;
 }
 
 .indigo {
@@ -512,7 +512,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .navbar-expand-lg .navbar-nav .nav-link i {
   font-size: 28px;
-  color: #3f5049;
+  color: #00b4d9;
   vertical-align: middle;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -541,7 +541,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-expand-lg .navbar-nav li a:hover,
 .navbar-expand-lg .navbar-nav li .active > a,
 .navbar-expand-lg .navbar-nav li a:focus {
-  color: #3f5049;
+  color: #00b4d9;
   outline: none;
 }
 
@@ -550,7 +550,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar li.active a.nav-link {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .dropdown-toggle::after {
@@ -634,7 +634,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .dropdown .dropdown-item:focus,
 .dropdown .dropdown-item:hover,
 .dropdown .dropdown-item.active {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .dropdown-item.active, .dropdown-item:active {
@@ -647,11 +647,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .slicknav_btn {
-  border-color: #3f5049;
+  border-color: #00b4d9;
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #3f5049;
+  background: #00b4d9;
 }
 
 /* only small tablets */
@@ -698,7 +698,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   .slicknav_nav a:hover,
   .slicknav_nav a:focus,
   .slicknav_nav .active {
-    color: #3f5049;
+    color: #00b4d9;
     outline: none;
     background: #f8f9fa;
   }
@@ -805,8 +805,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .controls .active {
-  color: #3f5049 !important;
-  border-color: #3f5049;
+  color: #00b4d9 !important;
+  border-color: #00b4d9;
   background: transparent;
 }
 
@@ -865,7 +865,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   height: 42px;
   width: 42px;
   line-height: 42px;
-  color: #3f5049;
+  color: #00b4d9;
   left: 50%;
   margin-left: -24px;
   margin-top: -24px;
@@ -934,7 +934,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   display: block;
   margin: 0 auto;
   height: 48px;
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .services-item .services-content h3 {
@@ -949,7 +949,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .services-item .services-content h3 a:hover {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .services-item .services-content p {
@@ -1014,7 +1014,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .footer-right-contact .contact-icon {
-  background: #3f5049;
+  background: #00b4d9;
   color: #fff;
   border-radius: 50%;
   font-size: 20px;
@@ -1071,7 +1071,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .footer-area .footer-text p a {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
@@ -1080,7 +1080,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .footer-area .footer-text .nav-inline .nav-link:hover {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 .footer-2 {
@@ -1114,7 +1114,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .footer-2 ul li a:hover {
-  color: #3f5049;
+  color: #00b4d9;
 }
 
 #copyright {
@@ -1132,5 +1132,5 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 #copyright p a:hover {
-  color: #3f5049;
+  color: #00b4d9;
 }
